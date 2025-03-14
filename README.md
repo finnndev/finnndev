@@ -4,10 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Android+Native+%26+Flutter+Engineer;Mobile+Architecture+Specialist;UI%2FUX+Implementation+Expert" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 Professional Profile
-
-> Dedicated to architecting scalable mobile solutions with optimal performance
-
+## 👨‍💻 Profile
 - 🎓 B.Eng. Information Technology (2001)
 - 📍 Based in Da Nang, Vietnam
 - 💼 Specialized in native Android development and cross-platform Flutter implementation
