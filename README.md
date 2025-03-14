@@ -28,13 +28,6 @@
   
 </div>
 
-## 📊 Development Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="GitHub Statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="Contribution Streak" />
-</div>
-
 ## 🔬 Current Research & Implementation Focus
 
 - Advanced State Management patterns (BLoC, Provider, Riverpod)
